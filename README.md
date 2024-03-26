@@ -1,7 +1,7 @@
 # NGINX-streaming-server
 Creating a NGINX streaming server
 
-This brown bag's main objective is studying using:
+The main objective is study using:
 
 - Media Streaming;
 - NGINX;
