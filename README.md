@@ -1,2 +1,2 @@
 # NGINX-streaming-server
-Creating an NGINX streaming server.
+Creating a NGINX streaming server.
